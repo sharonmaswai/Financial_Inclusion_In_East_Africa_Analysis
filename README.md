@@ -1,7 +1,14 @@
 
 # Financial Access in East Africa Data Analysis
 
-### By Sharon Maswai
+#### By Sharon Maswai
+
+****************************************************************************************************************************
+![Finance](https://www.procurement-academy.com/wp/wp-content/uploads/2018/05/Business-Finance-1.jpg)
+
+****************************************************************************************************************************
+
+
 
 ## Description
 This is a univariate, bivariate and multivariate data analysis on the data on financial access in East africa with an aim of predicting which individuals are likely to have financial access.
