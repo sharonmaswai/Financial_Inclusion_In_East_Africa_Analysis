@@ -13,6 +13,10 @@
 ## Description
 This is a univariate, bivariate and multivariate data analysis on the data on financial access in East africa with an aim of predicting which individuals are likely to have financial access.
 
+## Context
+
+Traditionally, access to bank accounts has been regarded as an indicator of financial inclusion. Despite the proliferation of mobile money in Africa and the growth of innovative fintech solutions, banks still play a pivotal role in facilitating access to financial services. Access to bank accounts enables households to save and facilitate payments while also helping businesses build up their credit-worthiness and improve their access to other financial services. Therefore, access to bank accounts is an essential contributor to long-term economic growth.
+
 ## Requirements
 
 *Google colab notebook
